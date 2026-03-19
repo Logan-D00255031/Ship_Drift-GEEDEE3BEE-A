@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ship_Drift",
+			"Path": "..\\Source\\Ship_Drift.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ship_DriftEditor",
+			"Path": "..\\Source\\Ship_DriftEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

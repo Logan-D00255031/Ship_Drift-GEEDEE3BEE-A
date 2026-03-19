@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Ship_Drift.gen.cpp.obj": [
+			"BasicAttributeSet.gen.cpp.obj",
+			"ShipCharacterBase.gen.cpp.obj",
+			"Ship_Drift.init.gen.cpp.obj"
+		]
+	}
+}

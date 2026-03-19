@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\Ship_Drift-GEEDEE3BEE-main\\Ship_Drift\\Source\\Ship_Drift\\Ship_Drift.Build.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\Ship_Drift-GEEDEE3BEE-main\\Ship_Drift\\Source\\Ship_Drift.Target.cs",
+		"C:\\Users\\logan\\Documents\\Unreal Projects\\Ship_Drift-GEEDEE3BEE-main\\Ship_Drift\\Source\\Ship_DriftEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

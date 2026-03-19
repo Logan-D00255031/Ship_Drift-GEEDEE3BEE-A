@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\logan\\documents\\unreal projects\\ship_drift-geedee3bee-main\\ship_drift\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ship_drift\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\logan\\documents\\unreal projects\\ship_drift-geedee3bee-main\\ship_drift\\intermediate\\build\\win64\\x64\\ship_drifteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\logan\\documents\\unreal projects\\ship_drift-geedee3bee-main\\ship_drift\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ship_drift\\definitions.ship_drift.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
