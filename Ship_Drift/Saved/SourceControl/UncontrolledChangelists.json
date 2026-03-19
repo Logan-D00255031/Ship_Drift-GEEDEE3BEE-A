@@ -13,7 +13,10 @@
 				"C:/Users/logan/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE-main/Ship_Drift/Content/Blueprints/Enemies/AI/AIC_Enemy_Base.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE-main/Ship_Drift/Content/Blueprints/Enemies/AI/Tasks/BTT_CircleTarget.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE-main/Ship_Drift/Content/Blueprints/Enemies/AI/Decorators/BTD_IsTargetInRange.uasset",
-				"C:/Users/logan/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE-main/Ship_Drift/Content/Blueprints/Enemies/AI/BP_Enemy_Base.uasset"
+				"C:/Users/logan/Documents/Unreal Projects/Ship_Drift-GEEDEE3BEE-main/Ship_Drift/Content/Blueprints/Enemies/AI/BP_Enemy_Base.uasset",
+				"C:/Users/logan/Documents/GitHub/Ship_Drift-GEEDEE3BEE-A/Ship_Drift/Content/Blueprints/Enemies/AI/BP_Enemy_Base.uasset",
+				"C:/Users/logan/Documents/GitHub/Ship_Drift-GEEDEE3BEE-A/Ship_Drift/Content/Blueprints/Enemies/AI/Tasks/BTT_CircleTarget.uasset",
+				"C:/Users/logan/Documents/GitHub/Ship_Drift-GEEDEE3BEE-A/Ship_Drift/Content/Blueprints/Enemies/AI/BT_Enemy_Base.uasset"
 			]
 		}
 	]
