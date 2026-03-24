@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Ship_Drift",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"GameplayAbilities"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -34,7 +24,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameplayAbilities",
+			"Name": "ActorPalette",
 			"Enabled": true
 		}
 	]
